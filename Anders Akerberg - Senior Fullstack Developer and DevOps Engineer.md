@@ -219,7 +219,7 @@ DevOps Engineer for an e-commerce platform hosted on AWS, serving approximately 
 
 Responsible for several applications. The team consisted of more than 20 people working with JavaScript and C#, .NET Core. The team followed agile methodologies and implemented DevOps practices using Infrastructure as Code (IaC) with Terraform, managing databases such as MSSQL and Oracle, and infrastructure in Azure. The assignment required a security clearance from SÄPO (Swedish Security Service).
 
-**Technologies:** C#, .NET Core, AngularJS, API, App services, Application Insights, Azure AD, Azure Cache for Redis, Azure DevOps, Azure Key Vault, Azure NAT Gateway, Azure Private Endpoints, Azure SQL, Azure Virtual Network, Cloud Functions, Entra ID, Grafana, Infrastructure, Infrastructure as Code, Internal Routing, Load Balancing, Microsoft SQL Server, MS Azure, Node.js, Oracle, Private Networking, React.js, Role-Based Access Control, Service Bus, Subnets, Terraform, Containerization, Vue.js, Git
+**Technologies:** C#, .NET Core, AngularJS, API, App services, Application Insights, Azure AD, Azure Cache for Redis, Azure DevOps, Azure Key Vault, Azure NAT Gateway, Azure Private Endpoints, Azure SQL, Azure Virtual Network, Cloud Functions, Entra ID, GitLab, Grafana, Infrastructure, Infrastructure as Code, Internal Routing, Load Balancing, Microsoft SQL Server, MS Azure, Node.js, Oracle, Private Networking, React.js, Role-Based Access Control, Service Bus, Subnets, Terraform, Containerization, Vue.js, Git
 
 **Impact:** Managed multiple applications for a team of 10+ developers, implemented comprehensive DevOps practices with Infrastructure as Code, and maintained systems requiring highest security clearance standards.
 
@@ -267,7 +267,7 @@ Worked closely with several development and operations teams to bring both parti
 
 Worked in different roles across various projects, including Software Developer, Azure DevOps Engineer, and Azure Architect. Worked with Azure Web Apps in a scaled environment managing redundant information. Used services such as Azure Service Bus and Redis to meet the complex needs of several different platforms. Combined developer knowledge with server mechanics expertise to deliver applications and set up environments that performed well in production.
 
-**Technologies:** C#, .NET, .NET Core, .NET MVC, Amadeus Web Services, Azure DevOps, Docker, Containerization, IATA knowledge, Java, Kubernetes, MS Azure, Node.js, Python, Redis, Service Bus, Sitecore, SOAP, TypeScript, Umbraco CMS, Git
+**Technologies:** Bitbucket, C#, .NET, .NET Core, .NET MVC, Amadeus Web Services, Azure DevOps, Docker, Containerization, IATA knowledge, Java, Kubernetes, MS Azure, Node.js, Python, Redis, Service Bus, Sitecore, SOAP, TypeScript, Umbraco CMS, Git
 
 ### Sirius International (Consid) <span style="display: inline-block; padding: 4px 10px; margin-left: 8px; background: #007bff; color: white; border-radius: 12px; font-size: 0.75em; font-weight: 600;">Fullstack Developer</span> 
 *February 2011 - June 2013, Stockholm*
@@ -313,9 +313,9 @@ Contributing to AIXCL, an opinionated AI development platform and curated compos
 - Multi-model orchestration and coordination system
 
 ### Foo Café - Tech Community Website
-**Maintainer & Host** | [Website](https://foocafe.org/)
+**Maintainer** | [Website](https://foocafe.org/)
 
-Maintaining and hosting the Foo Café website, a platform for the Swedish tech community that organizes tech talks, meetups, and events including the DevOps Comedy Club. Responsible for infrastructure management, updates, and ensuring reliable hosting for community events.
+Maintaining the Foo Café website, a platform for the Swedish tech community that organizes tech talks, meetups, and events including the DevOps Comedy Club. Responsible for infrastructure management, updates, and ensuring reliable hosting for community events.
 
 **Technologies:** PHP, Drupal, Web Hosting, Infrastructure Management
 
@@ -323,14 +323,14 @@ Maintaining and hosting the Foo Café website, a platform for the Swedish tech c
 
 ## Competences
 
-### Level 5 - Expert
-C#, Continuous Delivery, DevOps Engineer, Docker, Entity Framework Core, Fullstack Developer, Google Cloud Platform/GCP, Infrastructure as Code, Kubernetes, Lead Developer, Microsoft SQL Server, MS Azure, Node.js, React.js, Terraform, Vue.js
+### <span style="font-size: 0.5em;">Level 5 - Expert</span>
+<span style="font-size: 0.7em; line-height: 1.2; font-style: italic;">Bitbucket, C#, Continuous Delivery, DevOps Engineer, Docker, Entity Framework Core, Fullstack Developer, Git, GitHub, GitLab, Google Cloud Platform/GCP, Infrastructure as Code, Jenkins, Kubernetes, Lead Developer, Microsoft SQL Server, MS Azure, Node.js, React.js, Terraform, Vue.js</span>
 
-### Level 4 - Advanced
-.NET MVC, Agile, AngularJS, API, AWS, Azure AD, Azure DevOps, Azure Pipelines, Azure SQL, CI/CD, Cloud Functions, DevOps, Entra ID, GCP App Engine, GCP Cloud Build, GCP Cloud Run, GCP Compute Engine, GCP Google Kubernetes Engine, Github Actions, Google Cloud KMS, Gradle, HTML5, Infrastructure, JavaScript, Load Balancing, Maven, Microservices, NuGet, PostgreSQL, SOAP, SQL, TFS, TypeScript
+### <span style="font-size: 0.5em;">Level 4 - Advanced</span>
+<span style="font-size: 0.7em; line-height: 1.2; font-style: italic;">.NET, .NET Core, .NET MVC, Agile, AngularJS, API, AWS, Azure AD, Azure DevOps, Azure Pipelines, Azure SQL, Bash, CI/CD, Cloud Functions, DevOps, Docker Compose, Elasticsearch, Entra ID, GCP App Engine, GCP Cloud Build, GCP Cloud Run, GCP Compute Engine, GCP Google Kubernetes Engine, GitHub Actions, Google Cloud KMS, Gradle, HTML5, Infrastructure, Java, JavaScript, Laravel, Load Balancing, Maven, Microservices, MySQL, NuGet, PostgreSQL, Python, React, SOAP, Spinnaker, SQL, TFS, TypeScript, Vue 3</span>
 
-### Level 3 - High Competence
-App services, Application Insights, Azure Cache for Redis, Azure Key Vault, Azure NAT Gateway, Azure Private Endpoints, Azure Virtual Network, BigQuery, Google Data Studio, Google Looker Studio, Internal Routing, Private Networking, Redis, Role-Based Access Control, Service Bus, Storage, Subnets
+### <span style="font-size: 0.5em;">Level 3 - High Competence</span>
+<span style="font-size: 0.7em; line-height: 1.2; font-style: italic;">Ansible, App services, Application Insights, Azure Cache for Redis, Azure Key Vault, Azure NAT Gateway, Azure Private Endpoints, Azure Virtual Network, BigQuery, Big Data, Drupal, Google Data Studio, Google Looker Studio, Grafana, Internal Routing, Loki, MATLAB, PHP, Private Networking, Prometheus, Redis, Role-Based Access Control, Scala, Service Bus, Shell, Sitecore, Storage, Subnets, Umbraco CMS, WPF</span>
 
 ## Languages
 
